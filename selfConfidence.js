@@ -1,0 +1,1 @@
+console.log(`\nHELLO UNIVERSE. I AM WAGNER, GO TO STUDY! THANKS. KKK...`);
